@@ -60,11 +60,14 @@ https://trello.com/b/I0vZ8yPP/project-4-planning
 ![Entity Relationship Diagram](https://github.com/LillianChernin/donation-management-system/blob/master/docs/assets/images/erd.png)
 
 
+## Example Routes
+
+![Example Routes](https://github.com/LillianChernin/donation-management-system/blob/master/docs/assets/images/example-routes.png)
+
+
 ## User Stories
 
 - As an orgAdmin user, I should be able to create a relief effort with resources listed on it.
 - As an orgAdmin user, I should be able to update (add, delete, update) resources on a relief effort.
 - As a donor, I should be able to look at a relief effort and see what resources are still needed.
 - As a donor, I should be able to fulfill resource needs and see the relief effort page update.
-
-## Stretch Goals
